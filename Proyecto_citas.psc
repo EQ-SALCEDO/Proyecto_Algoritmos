@@ -27,7 +27,7 @@ Algoritmo Proyecto_Semana3
         Leer correos[total]
 		
         Si total < 10 Entonces
-            Escribir "¿Desea registrar otro? (SI/NO)"
+            Escribir "Â¿Desea registrar otro? (SI/NO)"
             Leer respuesta
         FinSi
 		
